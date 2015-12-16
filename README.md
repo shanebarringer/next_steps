@@ -19,6 +19,13 @@ A book written by some of the [best developers in the world](https://www.manning
 What I like to call [‘The Rails Bible’](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series/dp/0321944275), great resource to use when you need to get into the details of rails.  
 The companion to the above ‘Rails Bible’… [but for Ruby](http://therubyway.io/). yay!  
 
+
+## Challenges
+
+[Code Wars](http://www.codewars.com/) - is an excellent way to sharpen your skills. I try to spend at least 30 minutes a day working on problems.<br>
+[Code Combat](http://www.codecombat.com) - a fun and quirky way to learn basic JS or Python<br>
+[Ruby Warrior](https://www.bloc.io/ruby-warrior/#/) - an 8-bit style version of a text based game, created to help you learn Ruby
+
 ##To get involved (and get noticed)  
 [RefactorCop](http://refactorcop.com/) - locates open source projects that need help with refactoring (an excellent way to start contributing to open source, and get comfortable with more advanced git actions)<br>  
 [Trending on GitHub](https://github.com/trending) - a list of trending repos on GitHub <br>
