@@ -18,6 +18,8 @@ A book written by some of the [best developers in the world](https://www.manning
 [The Rails Crash Course](https://www.nostarch.com/railscrashcourse) helped me tremendously in understanding the core concepts of Rails/MVC  
 What I like to call [‘The Rails Bible’](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series/dp/0321944275), great resource to use when you need to get into the details of rails.  
 The companion to the above ‘Rails Bible’… [but for Ruby](http://therubyway.io/). yay!  
+[RubyTapas](http://www.rubytapas.com/) is for the busy Ruby or Rails developer who is ready to reach the next level of code mastery
+[JavaScript for Cats](http://jsforcats.com/) Surprisingly insightful and awesome
 
 
 ## Challenges
