@@ -15,7 +15,7 @@ A [great resource](http://javascriptissexy.com/) for learning JS
 [THIS](http://ruby.bastardsbook.com/) is one my favorite options for understanding the basics of Ruby.  
 [Ruby Monk](https://rubymonk.com/)- love it or hate it, this is a great way to grow in your ruby knowledge.  
 A book written by some of the [best developers in the world](https://www.manning.com/books/rails-4-in-action)<br>
-[Upcase from Thoughtbot](https://thoughtbot.com/upcase) has excellent courses on Rails and TDD/BDD
+[Upcase from Thoughtbot](https://thoughtbot.com/upcase) has excellent courses on Rails and TDD/BDD<br>
 [The Rails Crash Course](https://www.nostarch.com/railscrashcourse) helped me tremendously in understanding the core concepts of Rails/MVC  
 What I like to call [‘The Rails Bible’](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series/dp/0321944275), great resource to use when you need to get into the details of rails.  
 The companion to the above ‘Rails Bible’… [but for Ruby](http://therubyway.io/). yay!  
